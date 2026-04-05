@@ -1,0 +1,11 @@
+name: hdb-elt-dev
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pyyaml
+  - dbt-bigquery
+  - python=3.12
+  - pandas
+  - just
+  - pre-commit

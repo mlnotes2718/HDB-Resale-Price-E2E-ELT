@@ -235,8 +235,12 @@ export COLLABORATORS_EMAILS="you@example.com"
   - `dbt run`
   - `dbt test`
 
-### 8. Notes
+### 4. Notes
 
 - Ensure DBT is installed and configured for your target environment.
 - If `run.sh` is not executable, use `bash run.sh`.
 - Update `src/config.yaml` to change dataset IDs, file names, or folder paths.
+
+## Post Project Analysis and Improvement
+
+Please refer to [docs/post-project-analysis.md](docs/post-project-analysis.md)
